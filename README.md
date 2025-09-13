@@ -19,7 +19,7 @@ Este repositorio contiene un manual/tutorial detallado para estudiantes sobre cÃ
 
 ---
 
-## ðŸ›  Requisitos
+## Requisitos
 
 ### Python
 ```bash

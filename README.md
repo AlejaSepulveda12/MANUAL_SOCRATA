@@ -1,10 +1,10 @@
-# 📘 Tutorial completo: Uso de la API de Socrata en Jupyter (Python y R)
+# Tutorial completo: Uso de la API de Socrata en Jupyter (Python y R)
 
 Este repositorio contiene un manual/tutorial detallado para estudiantes sobre cómo descargar, consultar y analizar datos abiertos desde la API de Socrata (SODA API) usando **Python** y **R** en Jupyter Notebooks.
 
 ---
 
-## 📚 Contenido
+## Contenido
 
 - Instalación de paquetes en Python y R
 - Introducción a SoQL (SQL para Socrata)
@@ -36,7 +36,7 @@ install.packages("ggplot2")
 
 ---
 
-## 🚀 Ejecución
+## Ejecución
 
 1. Clonar el repositorio:
 
@@ -57,7 +57,7 @@ jupyter notebook
 
 ---
 
-## 📖 Contenido de los Notebooks
+## Contenido de los Notebooks
 
 ### Python
 - Conexión básica a Socrata
@@ -73,7 +73,7 @@ jupyter notebook
 
 ---
 
-## 📂 Estructura recomendada
+## Estructura recomendada
 
 ```
 socrata-tutorial/
@@ -87,7 +87,7 @@ socrata-tutorial/
 
 ---
 
-## 📌 Buenas prácticas
+## Buenas prácticas
 
 - Usar `limit` y `offset` para descargas grandes
 - Convertir variables a numéricas o fechas
@@ -106,4 +106,4 @@ socrata-tutorial/
 ---
 
 ## ✍ Autor
-Creado por **[Tu Nombre]**
+Creado por **Laura Alejandra Sepulveda**

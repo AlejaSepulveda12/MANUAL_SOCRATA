@@ -38,20 +38,7 @@ install.packages("ggplot2")
 
 ## Ejecución
 
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/usuario/socrata-tutorial.git
-cd socrata-tutorial
-```
-
-2. Abrir Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-3. Ejecutar los notebooks dentro de la carpeta `notebooks/`:
+1. Ejecutar los notebooks dentro de la carpeta `notebooks/`:
 - `socrata_python.ipynb`
 - `socrata_r.ipynb`
 
@@ -70,20 +57,6 @@ jupyter notebook
 - Consultas SoQL
 - Descarga masiva por lotes
 - Visualización de datos con ggplot2
-
----
-
-## Estructura recomendada
-
-```
-socrata-tutorial/
-│── README.md
-│── notebooks/
-│   │── socrata_python.ipynb
-│   │── socrata_r.ipynb
-│── data/  (opcional: guardar datasets descargados)
-│── manual_socrata.pdf
-```
 
 ---
 
